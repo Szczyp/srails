@@ -1,0 +1,6 @@
+_ReSharper.srails
+*.suo
+**/bin
+**/obj
+**/ClientBin
+**/*.csproj.user
